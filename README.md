@@ -14,5 +14,5 @@ Extract n-Dominant Colors from VideoCamera using Openframeworks.
 - XCode 10.12.x
 - OSX Mojave
 
-### Next Plan
+### Reference
 - Original Code from : https://gist.github.com/vanderlin/f34fac6369fd1e85a10e2920af4b5d05
