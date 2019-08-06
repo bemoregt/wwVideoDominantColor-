@@ -1,7 +1,8 @@
 # wwVideoDominantColor-
 Extract n-Dominant Colors from VideoCamera using Openframeworks.
 
-![dominant]( https://github.com/bemoregt/wwVideoDominantColor/blob/master/test.png "dcolor")
+![dominant]( https://github.com/bemoregt/wwVideoDominantColor/blob/master/test1.png "dcolor")
+![dominant2]( https://github.com/bemoregt/wwVideoDominantColor/blob/master/test2.png "dcolor")
 
 ### How To
 - Press Arrow key to change dominant colors count.
